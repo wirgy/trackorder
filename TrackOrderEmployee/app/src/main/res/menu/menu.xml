@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_1"
+        android:title="Заказ на сборке"
+        />
+    <item
+        android:id="@+id/item_2"
+        android:title="Заказ передан курьеру"
+        />
+
+    <item
+        android:id="@+id/item_3"
+        android:title="В пути "
+        />
+    <item
+        android:id="@+id/item_4"
+        android:title="Доставлено"
+        />
+</menu>
