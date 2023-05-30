@@ -12,10 +12,7 @@
 
     <item
         android:id="@+id/item_3"
-        android:title="В пути "
-        />
-    <item
-        android:id="@+id/item_4"
         android:title="Доставлено"
         />
+
 </menu>

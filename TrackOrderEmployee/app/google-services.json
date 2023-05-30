@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1052870021999",
+    "firebase_url": "https://trackorder-b2c8e-default-rtdb.firebaseio.com",
+    "project_id": "trackorder-b2c8e",
+    "storage_bucket": "trackorder-b2c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052870021999:android:2434f6c2e80687f6af4e9a",
+        "android_client_info": {
+          "package_name": "com.example.trackorderemployee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpl_5Z_cNSsCf4pge85kbVXDMoNGUvqio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
